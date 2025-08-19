@@ -8,18 +8,9 @@ const Navbar = () => {
       <div className="brand">
         <h1 className="brand-title">Quizoo</h1>
       </div>
-      
-   
       <div className="nav-items">
         <span className="nav-text">Quiz Generator</span>
-        <a 
-          href="https://github.com/barath1248" 
-          target="_blank" 
-          rel="noopener noreferrer"
-          className="nav-link"
-        >
-          GitHub
-        </a>
+        <a  href="https://github.com/barath1248"  target="_blank" rel="noopener noreferrer" className="nav-link">GitHub</a>
       </div>
     </nav>
   )
